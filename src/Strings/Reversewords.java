@@ -1,7 +1,7 @@
 //Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
 package Strings;
 
-public class reversewords {
+public class Reversewords {
     public static void main(String[] args) {
         String s = "Let's take LeetCode contest";
         char[] arr=s.toCharArray();

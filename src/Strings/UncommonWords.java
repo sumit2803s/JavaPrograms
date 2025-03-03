@@ -3,7 +3,7 @@ package Strings;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class uncommonWords {
+public class UncommonWords {
     public static void main(String[] args) {
         String s1="this apple is sweet";
         String s2= "this apple is sour";
