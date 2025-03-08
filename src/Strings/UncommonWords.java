@@ -7,8 +7,8 @@ public class UncommonWords {
     public static void main(String[] args) {
         String s1="this apple is sweet";
         String s2= "this apple is sour";
-        String str1[]=s1.split(" ");
-        String str2[]=s2.split(" ");
+        String[] str1 =s1.split(" ");
+        String[] str2 =s2.split(" ");
 
         HashMap<String,Integer> wordcount=new HashMap<>();
         for(String str:str1)
