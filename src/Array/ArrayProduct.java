@@ -1,5 +1,5 @@
 //Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
-package Arrays;
+package Array;
 
 public class ArrayProduct {
     public static void main(String[] args) {

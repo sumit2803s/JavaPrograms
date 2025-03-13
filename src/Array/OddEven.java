@@ -1,5 +1,5 @@
 //Rearrange all the elements of an given array of integers so that all the odd numbers come before all the even numbers
-package Arrays;
+package Array;
 
 public class OddEven {
     public static void main(String[] args) {
